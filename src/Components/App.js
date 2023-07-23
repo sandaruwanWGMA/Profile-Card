@@ -1,12 +1,11 @@
-import './App.css';
+import '../Styles/App.css';
 import SkillsSet from "./SkillsSet"
-import profilePicture from "./molindu copy.jpeg";
+import profilePicture from "../molindu copy.jpeg";
 import Intro from "./Intro";
 
 function App() {
     const imageStyles = {
-        width: 420,
-        height: 280
+        width: "100%"
     }
   return (
     <div className="profile">

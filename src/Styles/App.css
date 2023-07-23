@@ -6,10 +6,10 @@
 
 .profile {
     position: relative;
-    top: 60px;
-    left: 60px;
+    margin: 0 auto;
+    top: 8px;
     border: 4px black solid;
-    width: 428px;
+    width: 400px;
 }
 
 h1 {
@@ -38,6 +38,7 @@ h1 {
     margin-bottom: 6px;
     padding: 5px;
     font-weight: bold;
+    font-size: 14px;
 }
 
 .s-2 {
